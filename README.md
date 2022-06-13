@@ -5,8 +5,12 @@ Remarks here are personal and this is just for practice puposes only. Equations 
 Lessons here are from the book titled:
 
 ### Essential Math For Data Science.
+
 Written by Thomas Nield
 
 © Published by [O'REILLY Media](https://www.oreilly.com/)
 
+<p align="center">
+<img src="https://images-na.ssl-images-amazon.com/images/I/41khDop3M4L._SX379_BO1,204,203,200_.jpg">
+</p>
 
