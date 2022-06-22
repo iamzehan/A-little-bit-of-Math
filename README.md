@@ -14,3 +14,10 @@ Written by Thomas Nield
 <img src="https://images-na.ssl-images-amazon.com/images/I/41khDop3M4L._SX379_BO1,204,203,200_.jpg">
 </p>
 
+
+### Important notes:
+___
+
+* Chapters are way too long, take your time.
+* This book extensively uses python's library [Sympy](https://docs.sympy.org/latest/index.html) .
+
