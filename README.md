@@ -9,7 +9,7 @@ Lessons here are from the book titled:
 Written by Thomas Nield
 </p>
 <p align="center">
-© Published by [O'REILLY Media®](https://www.oreilly.com/)
+© Published by <a href="https://www.oreilly.com/">O'REILLY Media®</a>
 </p>
 <p align="center">
 <img src="https://images-na.ssl-images-amazon.com/images/I/41khDop3M4L._SX379_BO1,204,203,200_.jpg">
