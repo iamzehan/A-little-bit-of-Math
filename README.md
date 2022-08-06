@@ -4,12 +4,13 @@ Remarks here are personal and this is just for practice purposes only. Equations
 
 Lessons here are from the book titled:
 
-### Essential Math For Data Science.
-
+<h3 align="center">Essential Math For Data Science.</h3></p>
+<p align="center">
 Written by Thomas Nield
-
+</p>
+<p align="center">
 © Published by [O'REILLY Media®](https://www.oreilly.com/)
-
+</p>
 <p align="center">
 <img src="https://images-na.ssl-images-amazon.com/images/I/41khDop3M4L._SX379_BO1,204,203,200_.jpg">
 </p>
