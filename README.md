@@ -15,9 +15,6 @@ Written by Thomas Nield
 <img src="https://images-na.ssl-images-amazon.com/images/I/41khDop3M4L._SX379_BO1,204,203,200_.jpg">
 <p>
 <br/>
-
-![image](https://iamzehan-my-booktracker-book-tracker-nav166.streamlitapp.com/~/+/media/d315df97167a3de71aa974aaa4cb9582f0bd2a66cd88c20885ebbb85.png)
-
 ### Important notes:
 ___
 
