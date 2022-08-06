@@ -20,4 +20,7 @@ ___
 
 * Chapters are way too long, take your time.
 * This book extensively uses python's library [Sympy](https://docs.sympy.org/latest/index.html) .
+* You might be tempted to skip over the details covered in this book, the sort of "direct attempt" at the algorithms and very long, exhaustive, scary looking lines of codes, don't. Because it helps your brain wiring to these stuff. No matter how simple you may think of an algorithm like Linear Regression, but it takes time for you to be skeptical about the results and coming up with your own hypotheses. 
+* There is no shortcut, but it may be good to copy and run the codes in the chapters than having to hand code them. But don't do that with the exercises. 
+
 
