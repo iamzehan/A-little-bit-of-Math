@@ -5,6 +5,8 @@ Remarks here are personal and this is just for practice purposes only. Equations
 Lessons here are from the book titled:
 
 <h3 align="center">Essential Math For Data Science.</h3></p>
+
+___
 <p align="center">
 Written by Thomas Nield
 </p>
